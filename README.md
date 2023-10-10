@@ -6,6 +6,7 @@ Conhecendo Jupyter
     Anaconda
     Ambiente Virtual
 
+
 Importando dados
     
     Como importar a biblioteca (import pandas as pd)
@@ -18,3 +19,15 @@ Importando dados
       HTML (pd.read_html(...))
     Vários métodos e atributos úteis de dataframes, como:
       info(), dead(), dtypes, columns, shape
+
+
+Series e Index
+
+    Removendo valores repetidos
+    Utilizando métodos no pandas
+    Redefinindo o index
+    Índice das linhas de um DataFrame
+    (Extra) Criando dataframes
+    (Extra) Concatenando dataframes
+    Conhecendo melhor as estruturas de dados
+    Formas de criação de um DataFrame
